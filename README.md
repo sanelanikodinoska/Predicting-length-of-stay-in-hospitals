@@ -1,4 +1,4 @@
-# Predicting-lenght-of-stay-in-hospitals
+# Predicting-length-of-stay-in-hospitals
 
 This project aims to predict the Length of Stay (LoS) of patients in hospitals using Linear Regression.
 
